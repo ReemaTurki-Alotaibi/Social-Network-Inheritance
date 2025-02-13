@@ -1,4 +1,5 @@
 **Rmotrgram - A Simple Social Network Clone**
+
 Rmotrgram is a Python-based social network clone inspired by popular platforms like Twitter. It allows users to create posts, follow other users, and view a timeline of posts from users they follow. The project demonstrates key Object-Oriented Programming (OOP) concepts such as inheritance, polymorphism, and encapsulation.
 
 **Features**
